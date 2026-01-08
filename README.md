@@ -12,3 +12,5 @@ def func():
 - [ ] chckbx3
 
 <!-- Hidden text-->
+
+:smirk_cat:
